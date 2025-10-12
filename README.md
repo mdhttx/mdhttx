@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Medhat Sobhy
 
-<!--
-**mdhttx/mdhttx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer | ETL Developer | Cloud & Big Data Enthusiast**
 
-Here are some ideas to get you started:
+I'm a Data Engineer with a Computer Engineering background, passionate about designing scalable data pipelines and analytics systems.  
+I enjoy turning raw data into actionable insights using modern data engineering tools and cloud platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Technical Skills
+
+**Programming:**  
+`Python` | `SQL` | `Java` | `C`
+
+**Data Engineering:**  
+`ETL & ELT` | `Data Warehousing` | `Data Modeling` | `Data Lakes` | `Big Data Pipelines`
+
+**Frameworks & Tools:**  
+`PySpark` | `Apache Kafka` | `Apache Airflow` | `Apache Flink` | `Apache Hadoop` | `SSIS` | `Talend`
+
+**Databases:**  
+`SQL Server` | `Teradata` | `PostgreSQL` | `MongoDB` | `Elasticsearch`
+
+**Cloud & Analytics Platforms:**  
+`AWS` | `Snowflake` | `Power BI` | `Kibana`
+
+**Other Tools & Concepts:**  
+`Git` | `Docker` | `Linux` | `CI/CD` | `Agile Methodologies`
+
+---
+
+📫 **Get in touch:**  
+📧 [medhatsobhy2001@gmail.com](mailto:medhatsobhy2001@gmail.com)  
+💼 [linkedin.com/in/medhat-sobhyy](https://www.linkedin.com/in/medhat-sobhyy/)  
+💻 [github.com/mdhttx](https://github.com/mdhttx)
