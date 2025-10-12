@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Medhat Sobhy
 
-🎯 **Data Engineer | ETL Developer | Cloud & Big Data Enthusiast**
+🎯 **Data Engineer**
 
 I'm a Data Engineer with a Computer Engineering background, passionate about designing scalable data pipelines and analytics systems.  
 I enjoy turning raw data into actionable insights using modern data engineering tools and cloud platforms.
