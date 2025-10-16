@@ -10,7 +10,7 @@ I enjoy turning raw data into actionable insights using modern data engineering 
 ## ⚙️ Technical Skills
 
 **Programming:**  
-`Python` | `SQL` | `Java` | `C`
+`SQL` | `Python` | `Java` | `C`
 
 **Data Engineering:**  
 `ETL & ELT` | `Data Warehousing` | `Data Modeling` | `Data Lakes` | `Big Data Pipelines`
